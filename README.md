@@ -1,4 +1,4 @@
-# 🚛 Supply Chain & Freight Analysis Dashboard (Power BI + Python)
+# Supply Chain & Freight Analysis Dashboard (Power BI + Python)
 
 This project is a comprehensive dashboard created to analyze freight cost, lead time, and predict future freight trends using a combination of *Power BI* and *Python* (via embedded scripts). It is structured into *four sheets*:
 
@@ -9,9 +9,9 @@ This project is a comprehensive dashboard created to analyze freight cost, lead 
 
 ---
 
-## 📦 Project Workflow
+## Project Workflow
 
-### 1. 🔄 Data Loading & Preparation
+### 1. Data Loading & Preparation
 
 - *Data Source: **MySQL Database*
 - *Connection*: Connected directly to MySQL using Power BI's native database connector.
@@ -25,7 +25,7 @@ This project is a comprehensive dashboard created to analyze freight cost, lead 
     - Product Info
     - Other dimension tables.
 
-### 2. 🧮 Calculated Columns & Measures
+### 2. Calculated Columns & Measures
 
 *Key Calculated Columns:*
 - Freight Cost = Unit freight charges calculated per row.
@@ -43,9 +43,9 @@ This project is a comprehensive dashboard created to analyze freight cost, lead 
 
 ---
 
-## 📊 Dashboard Pages & Visuals
+## Dashboard Pages & Visuals
 
-### 📄 *Freight Cost Overview*
+### *Freight Cost Overview*
 Provides a high-level summary of freight costs.
 
 *Visuals:*
@@ -63,7 +63,7 @@ Provides a high-level summary of freight costs.
 
 ---
 
-### 📄 *Lead Time Overview*
+### *Lead Time Overview*
 Focuses on delivery performance and capacity.
 
 *Visuals:*
@@ -80,7 +80,7 @@ Focuses on delivery performance and capacity.
 
 ---
 
-### 📄 *Freight Predictive Analysis*
+### *Freight Predictive Analysis*
 Forecasts freight cost using Python and machine learning.
 
 *Process:*
@@ -101,7 +101,7 @@ Forecasts freight cost using Python and machine learning.
 
 ---
 
-### 📄 *Predictive Python Visuals*
+### *Predictive Python Visuals*
 Displays advanced Python machine learning visuals.
 
 *Process:*
